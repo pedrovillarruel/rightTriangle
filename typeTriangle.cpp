@@ -4,7 +4,6 @@
 #include<string>
 using namespace std;
 int main() {
-	string rightTriangle, scalene, isosceles, equilateral;
 	float a, b, c;
 	cout << "Enter length of side A: ";
 	cin >> a;
